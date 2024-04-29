@@ -1,2 +1,7 @@
 if __name__ == "__main__":
-  print("Python Sort List")
+  # Introduction to the Python List sort() method
+
+  """
+  list.sort()
+  list.sort(reverse = True)
+  """
